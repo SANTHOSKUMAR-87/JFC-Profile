@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: configuation
+
+  profiles:
+    active: dev
